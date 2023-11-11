@@ -6,4 +6,4 @@
 
 4. add openai key
 
-5. run script
+5. run vision_test_pdf.py
